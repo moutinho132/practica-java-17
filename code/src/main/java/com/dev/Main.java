@@ -46,5 +46,13 @@ public class Main {
         for (int i = 0;personaList.size() > i;i++) {
             System.out.println(personaList.get(i).nombre());
         }
+
+        Object obj = "Hola Java";
+        switch (obj) {
+            case String s -> System.out.println("Es un String con valor: " + s);
+            case Integer i -> System.out.println("Es un Integer con valor: " + i);
+            default -> System.out.println("No reconocido");
+        }
+
     }
 }
