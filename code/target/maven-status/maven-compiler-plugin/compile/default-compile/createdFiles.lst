@@ -1,6 +1,7 @@
-com/dev/modelo/Animal.class
-com/dev/Main.class
-com/dev/adaptador/Dog.class
-com/dev/adaptador/Animal.class
-com/dev/adaptador/Cat.class
-com/dev/modelo/Persona.class
+com\dev\adaptador\Animal.class
+com\dev\modelo\Persona.class
+com\dev\dto\Person.class
+com\dev\Main.class
+com\dev\adaptador\Dog.class
+com\dev\modelo\Animal.class
+com\dev\adaptador\Cat.class
